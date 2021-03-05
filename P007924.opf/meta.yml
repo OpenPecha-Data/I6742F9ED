@@ -1,15 +1,16 @@
-id: opecha:P007924
+id: P007924
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG24613
   title: གསོ་རིག་དཔྱད་རྩོམ།
-  volume:
+  author: ''
+  volumes:
     1ce64e55a86b48cf97980bd493158969:
       image_group_id: I1KG26421
       title: Volume 1 of gso rig dpyad rtsom/
       volume_number: 1
       total_pages: 419
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གསོ་རིག་དཔྱད་རྩོམ།
   author: ''
