@@ -5,11 +5,12 @@ source_metadata:
   title: གསོ་རིག་དཔྱད་རྩོམ།
   author: ''
   volumes:
-    7ad14e41cb794405862b57ebaa0bf0c3:
+    1ce64e55a86b48cf97980bd493158969:
       image_group_id: I1KG26421
-      title: ''
+      title: Volume 1 of gso rig dpyad rtsom/
       volume_number: 1
       total_pages: 419
+      base_file: v001.txt
 ebook_metadata:
   title: གསོ་རིག་དཔྱད་རྩོམ།
   author: ''
